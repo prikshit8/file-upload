@@ -1,0 +1,10 @@
+1. read multer npm package -> try implementing multiple file uploads
+
+2. try restricting file type both on UI and backend
+    a. restricting on UI but on not on backend
+    b. restricting on backend but on UI
+    c. restricting on both.
+
+3. try handling errors better than multer (what should we do here?);
+
+4. threads + bearer token
